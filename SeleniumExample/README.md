@@ -1,4 +1,4 @@
-This is a basic example of using Selenium in Visual Studio with C# and MSTest.
+This is a basic example of using Selenium in Visual Studio with C# .Net Core and MSTest.
 
 This uses the following Nuget packages:
 
