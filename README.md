@@ -1,4 +1,4 @@
-# Selenium C Sharp Example
+# Selenium C# Example
 
 This is a basic example of using Selenium in Visual Studio with C# DotNetCore and MSTest.
 
