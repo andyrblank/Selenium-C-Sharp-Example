@@ -4,12 +4,12 @@ This is a basic example of using Selenium in Visual Studio with C# DotNetCore an
 
 This uses the following Nuget packages:
 
-* DotNetSeleniumExtras.WaitHelpers Version="3.11.0"
-* Microsoft.NET.Test.Sdk Version="16.1.0"
-* MSTest.TestAdapter Version="1.4.0"
-* MSTest.TestFramework Version="1.4.0"
-* Selenium.Chrome.WebDriver Version="74.0.0"
-* Selenium.WebDriver Version="3.141.0"
+* [DotNetSeleniumExtras.WaitHelpers Version="3.11.0"](https://www.nuget.org/packages/DotNetSeleniumExtras.WaitHelpers/3.11.0)
+* [Microsoft.NET.Test.Sdk Version="16.1.0"]https://www.nuget.org/packages/Microsoft.NET.Test.Sdk/16.1.0)
+* [MSTest.TestAdapter Version="1.4.0"](https://www.nuget.org/packages/MSTest.TestAdapter/1.4.0)
+* [MSTest.TestFramework Version="1.4.0"](https://www.nuget.org/packages/MSTest.TestFramework/1.4.0)
+* [Selenium.WebDriver.ChromeDriver Version="74.0.3729.6"](https://www.nuget.org/packages/Selenium.WebDriver.ChromeDriver/74.0.3729.6)
+* [Selenium.WebDriver Version="3.141.0"](https://www.nuget.org/packages/Selenium.WebDriver/3.141.0)
 
 GoogleSearchExample.cs contains code for starting a Chrome browser, 
 navigating to google.com, executing a search for 'Selenium HQ'
