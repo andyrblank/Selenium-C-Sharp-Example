@@ -11,7 +11,7 @@ This uses the following Nuget packages:
 * [Selenium.WebDriver.ChromeDriver Version="74.0.3729.6"](https://www.nuget.org/packages/Selenium.WebDriver.ChromeDriver/74.0.3729.6)
 * [Selenium.WebDriver Version="3.141.0"](https://www.nuget.org/packages/Selenium.WebDriver/3.141.0)
 
-GoogleSearchExample.cs contains code for starting a Chrome browser, 
+[GoogleSearchExample.cs](https://github.com/andyrblank/Selenium-C-Sharp-Example/blob/master/SeleniumExample/GoogleSearchExample.cs) contains code for starting a Chrome browser, 
 navigating to google.com, executing a search for 'Selenium HQ'
 & asserting some values from the results page (see comments).
 
