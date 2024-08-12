@@ -14,5 +14,3 @@ This uses the following Nuget packages:
 [GoogleSearchExample.cs](https://github.com/andyrblank/Selenium-C-Sharp-Example/blob/master/SeleniumExample/GoogleSearchExample.cs) contains code for starting a Chrome browser, 
 navigating to google.com, executing a search for 'Selenium HQ'
 & asserting some values from the results page (see comments).
-
-For more information please see my blog post here: https://blankstechblog.com/2019/05/23/cross-platform-selenium-with-dotnet-core/
